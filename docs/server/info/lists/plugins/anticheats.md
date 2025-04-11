@@ -1977,10 +1977,10 @@ This list of paid anti-cheats is sorted alphabetically.
   Price: £80  
   Currently Active
 
-- [Spartan Anti Cheat](https://www.spigotmc.org/resources/25638/)  
+- [Spartan Anti Cheat](https://www.spigotmc.org/resources/123945/)  
   Version: 1.7 - 1.17  
   Rating: 4.88  
-  Price: €22.50  
+  Price: €19.99  
   Currently Active
 
 - [Taka AntiCheat](https://www.spigotmc.org/resources/45167/)  
